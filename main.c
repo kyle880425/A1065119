@@ -11,5 +11,6 @@ int main()
     printf("yeah"\n");
     printf("bang"\n");
     printf("da GG"\n");
+    printf(">_<"\n");
     return 0;
 }
