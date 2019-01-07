@@ -9,5 +9,7 @@ int main()
     printf("bye world\n");
     printf("???\n");
     printf("yeah"\n");
+    printf("bang"\n");
+    printf("da GG"\n");
     return 0;
 }
