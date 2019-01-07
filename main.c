@@ -8,5 +8,6 @@ int main()
     printf("fuck you world again\n");
     printf("bye world\n");
     printf("???\n");
+    printf("yeah"\n");
     return 0;
 }
